@@ -1,6 +1,6 @@
 ### Hey! Bem vindo ao meu mundo.
 
-Sou Desenvolvedor desktop | Mobile.
+Sou desenvolvedor Desktop | Mobile.
 
 - :computer: Atualmente trabalhando com Delphi & Kotlin.
 - :blue_heart: Techs: Flutter, Kotlin, Delphi...
