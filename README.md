@@ -9,5 +9,5 @@ Sou desenvolvedor Desktop | Mobile.
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusrmribeiro&show_icons=true&layout=compact" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmribeiro&show_icons=true&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmribeiro&show_icons=true&layout=compact&hide=cmake" />
 </p>
