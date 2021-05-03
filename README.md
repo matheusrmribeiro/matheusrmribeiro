@@ -1,4 +1,4 @@
-## Hello,
+## Hello
 
 I'm a software developer passionate about technology, focused on mobile development.
 
