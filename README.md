@@ -1,13 +1,12 @@
-### Hey! Bem vindo ao meu mundo.
+## Hello,
 
-Sou desenvolvedor Desktop | Mobile.
+I'm a software developer passionate about technology, focused on mobile development.
 
-- :computer: Atualmente trabalhando com Delphi & Kotlin.
-- :blue_heart: Techs: Flutter, Kotlin, Delphi...
-- :books: Sou formado em Gestão da Tecnologia da Informação.
--  :house: Quer saber mais? [matheusribeiro.dev](https://matheusribeiro.dev)
+- :computer: Currently working with Flutter & Kotlin.
+- :books: Gratuated in Technology Management.
+- :house: Wanna know more? [matheusribeiro.dev](https://matheusribeiro.dev)
 
-<p align="center"> 
+<p> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusrmribeiro&show_icons=true&layout=compact" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmribeiro&show_icons=true&layout=compact&hide=cmake" />
+  <!--<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrmribeiro&show_icons=true&layout=compact&hide=cmake" />-->
 </p>
