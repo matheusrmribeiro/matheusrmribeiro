@@ -1,8 +1,8 @@
 ## Hello
 
-I'm a software developer passionate about technology, focused on mobile development.
+I'm a mobile developer and I've been helping companies to deliver the best solutions for their customers since 2015.
 
-- :computer: Currently working with Flutter & Kotlin.
+- :computer: Currently working with Kotlin & Flutter.
 - :books: Gratuated in Technology Management.
 - :house: Wanna know more? [matheusribeiro.dev](https://matheusribeiro.dev)
 
